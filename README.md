@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| Original artifact | <https://sites.google.com/site/hpcaius/home/prj_zifazah> |
+| Original artifact | <https://sourceforge.net/projects/gryphon-dti> |
 | Imported from | the publications page |
 | Tool | `pubs2github` |
 
